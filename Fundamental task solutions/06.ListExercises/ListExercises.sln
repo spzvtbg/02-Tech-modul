@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElementsAtOddPositions", "RemoveElementsAtOddPositions\RemoveElementsAtOddPositions.csproj", "{E38FE371-4923-4251-A9C3-CEE930C89DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDownloader", "TrackDownloader\TrackDownloader.csproj", "{B8EB2186-2726-4861-B6ED-E29B7AECBC17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSum", "EqualSum\EqualSum.csproj", "{0382C2DC-B787-4624-BFBD-8623F1157882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipListSides", "FlipListSides\FlipListSides.csproj", "{782FD2E8-0E31-4893-A975-A96FD941825B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TearListInHalf", "TearListInHalf\TearListInHalf.csproj", "{8A4482B5-587F-4775-A796-5AC0AFC4D666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuckZipper", "StuckZipper\StuckZipper.csproj", "{2038533A-7590-44B6-867C-5DED84CA69C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E38FE371-4923-4251-A9C3-CEE930C89DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38FE371-4923-4251-A9C3-CEE930C89DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38FE371-4923-4251-A9C3-CEE930C89DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38FE371-4923-4251-A9C3-CEE930C89DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EB2186-2726-4861-B6ED-E29B7AECBC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EB2186-2726-4861-B6ED-E29B7AECBC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EB2186-2726-4861-B6ED-E29B7AECBC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EB2186-2726-4861-B6ED-E29B7AECBC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0382C2DC-B787-4624-BFBD-8623F1157882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0382C2DC-B787-4624-BFBD-8623F1157882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0382C2DC-B787-4624-BFBD-8623F1157882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0382C2DC-B787-4624-BFBD-8623F1157882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782FD2E8-0E31-4893-A975-A96FD941825B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782FD2E8-0E31-4893-A975-A96FD941825B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782FD2E8-0E31-4893-A975-A96FD941825B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782FD2E8-0E31-4893-A975-A96FD941825B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4482B5-587F-4775-A796-5AC0AFC4D666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4482B5-587F-4775-A796-5AC0AFC4D666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4482B5-587F-4775-A796-5AC0AFC4D666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4482B5-587F-4775-A796-5AC0AFC4D666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2038533A-7590-44B6-867C-5DED84CA69C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2038533A-7590-44B6-867C-5DED84CA69C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2038533A-7590-44B6-867C-5DED84CA69C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2038533A-7590-44B6-867C-5DED84CA69C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

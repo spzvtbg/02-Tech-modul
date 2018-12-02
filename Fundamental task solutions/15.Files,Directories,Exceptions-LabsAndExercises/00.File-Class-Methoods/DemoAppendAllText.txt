@@ -1,0 +1,6 @@
+1.AppendAllText methood exercises...1.WriteAllLines
+methood
+exercises...
+1.WriteAllLines
+methood
+exercises...

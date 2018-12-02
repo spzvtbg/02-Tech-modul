@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MelrahShake", "01.MelrahShake\01.MelrahShake.csproj", "{0F295A71-B068-46C6-9FE1-23A265AD7B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CriticalBreakpoint", "03.CriticalBreakpoint\03.CriticalBreakpoint.csproj", "{0A27D895-80AD-4CB0-AF7C-22FD45E5DED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GUnit", "04.GUnit\04.GUnit.csproj", "{12FA8486-7276-40F0-894D-2869871FDF8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F295A71-B068-46C6-9FE1-23A265AD7B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F295A71-B068-46C6-9FE1-23A265AD7B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F295A71-B068-46C6-9FE1-23A265AD7B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F295A71-B068-46C6-9FE1-23A265AD7B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A27D895-80AD-4CB0-AF7C-22FD45E5DED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A27D895-80AD-4CB0-AF7C-22FD45E5DED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A27D895-80AD-4CB0-AF7C-22FD45E5DED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A27D895-80AD-4CB0-AF7C-22FD45E5DED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FA8486-7276-40F0-894D-2869871FDF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FA8486-7276-40F0-894D-2869871FDF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FA8486-7276-40F0-894D-2869871FDF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FA8486-7276-40F0-894D-2869871FDF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
